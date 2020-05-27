@@ -72,6 +72,8 @@ Material:
     - _Metallic: 0.5
     - _Mode: 0
     - _OcclusionStrength: 1
+    - _Opacity: 1
+    - _OpacityThreshold: 0
     - _Parallax: 0.08
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -82,6 +84,7 @@ Material:
     - _UseEmissiveMap: 0
     - _UseMetallicMap: 1
     - _UseNormalMap: 1
+    - _UseOpacityMap: 0
     - _UseRoughnessMap: 1
     - _ZWrite: 1
     m_Colors:
